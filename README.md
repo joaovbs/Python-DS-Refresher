@@ -1,2 +1,4 @@
 # Python DS Refresher
- Refresher em Python
+ Refresher em Data Science com Python
+
+Repositório criado para tornar público scripts pessoais de estudos em Python aplicado para data science.
